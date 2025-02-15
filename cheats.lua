@@ -102,7 +102,7 @@ local modularInfo = {
 	backgroundColor = Color3.fromRGB(0, 0, 0),
 	textColor = Color3.fromRGB(255, 255, 255),
 	font = Enum.Font.Roboto,
-	name = "Eri's Modular Gui Script",
+	name = "Eviction Notice Script by Eri",
 	barY = 30,
 	maxPages = 3,
 }
